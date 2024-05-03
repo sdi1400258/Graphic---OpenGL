@@ -1,0 +1,72 @@
+﻿  model_loading.cpp
+E:\_desktop\graphics\2020\students\Giorgos\includes\learnopengl\shader_m.h(44,40): warning C4101: 'e': unreferenced local variable
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(97,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(171,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(172,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(176,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(177,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(179,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(180,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_desktop\graphics\2020\students\Giorgos\model_loading.cpp(189,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+model_loading.obj : error LNK2019: unresolved external symbol _gladLoadGLLoader referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+model_loading.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+model_loading.obj : error LNK2019: unresolved external symbol _glfwSetCursorPosCallback referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol _stbi_load referenced in function "unsigned int __cdecl TextureFromFile(char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?TextureFromFile@@YAIPBDABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+model_loading.obj : error LNK2019: unresolved external symbol _stbi_image_free referenced in function "unsigned int __cdecl TextureFromFile(char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?TextureFromFile@@YAIPBDABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+model_loading.obj : error LNK2019: unresolved external symbol _stbi_set_flip_vertically_on_load referenced in function _main
+model_loading.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) referenced in function "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+model_loading.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) referenced in function "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+model_loading.obj : error LNK2019: unresolved external symbol "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) referenced in function "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z)
+model_loading.obj : error LNK2019: unresolved external symbol "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ) referenced in function "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+model_loading.obj : error LNK2019: unresolved external symbol _aiGetMaterialTextureCount referenced in function "public: unsigned int __thiscall aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QBEIW4aiTextureType@@@Z)
+model_loading.obj : error LNK2019: unresolved external symbol _aiGetMaterialTexture referenced in function "public: enum aiReturn __thiscall aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QBE?AW4aiReturn@@W4aiTextureType@@IPAUaiString@@PAW4aiTextureMapping@@PAIPAMPAW4aiTextureOp@@PAW4aiTextureMapMode@@@Z)
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glTexParameteri
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glTexImage2D
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glClear
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glClearColor
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glEnable
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glViewport
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glDrawElements
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glBindTexture
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGenTextures
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glActiveTexture
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glBindBuffer
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGenBuffers
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glBufferData
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glAttachShader
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glCompileShader
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glCreateProgram
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glCreateShader
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glDeleteShader
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glEnableVertexAttribArray
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGetProgramiv
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGetProgramInfoLog
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGetShaderiv
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGetShaderInfoLog
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGetUniformLocation
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glLinkProgram
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glShaderSource
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glUseProgram
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glUniform1i
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glUniformMatrix4fv
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glVertexAttribPointer
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGenerateMipmap
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glBindVertexArray
+model_loading.obj : error LNK2001: unresolved external symbol _glad_glGenVertexArrays
+lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+lib\assimp.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+E:\_desktop\graphics\2020\students\Giorgos\Debug\Giorgos.exe : fatal error LNK1120: 59 unresolved externals

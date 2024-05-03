@@ -1,0 +1,37 @@
+﻿  application.cpp
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\includes\learnopengl\shader_m.h(44,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\includes\learnopengl\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(18,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(71,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(72,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(76,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(79,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(80,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(88,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(169,23): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(170,24): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(172,13): warning C4244: '=': conversion from 'const unsigned int' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(173,14): warning C4244: '=': conversion from 'const unsigned int' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(188,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\application.cpp(284,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  world.cpp
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\includes\learnopengl\shader_m.h(44,40): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\glfw.pdb'; linking object as if no debug info
+  Giorgos.vcxproj -> C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\Giorgos.exe

@@ -1,0 +1,6 @@
+E:\_desktop\graphics\2020\students\Giorgos\x64\Debug\Giorgos.exe
+E:\_desktop\graphics\2020\students\Giorgos\x64\Debug\Giorgos.pdb
+C:\Users\Giorgos\Desktop\Giorgos\x64\Debug\Giorgos.exe
+C:\Users\Giorgos\Desktop\Giorgos\x64\Debug\Giorgos.pdb
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\Giorgos.exe
+C:\Users\Giorgos\Documents\giorgos\ΣΧΟΛΗ\Γραφικά Ι\Giorgos-Akkogiounoglou-1115201400258\x64\Debug\Giorgos.pdb
